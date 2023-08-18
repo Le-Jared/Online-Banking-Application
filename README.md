@@ -31,8 +31,6 @@ BarbieBank a comprehensive banking solution that offers intuitive user experienc
 ![image](https://github.com/Le-Jared/Online-Banking-Application/assets/68887503/7be7ec84-27ec-488b-b9db-ad7da7d390de)
 Bank Accounts:
 ![image](https://github.com/Le-Jared/Online-Banking-Application/assets/68887503/bb3c23fa-434f-403c-8f01-c416a3f4c796)
-Credit Cards:
-![image](https://github.com/Le-Jared/Online-Banking-Application/assets/68887503/b45afc9c-27c2-433a-94b9-ab4ffdd03ed8)
 Transactions:
 ![image](https://github.com/Le-Jared/Online-Banking-Application/assets/68887503/945fb43d-4c5d-4ea2-a501-1859657fcee2)
 Exchange Rates:
