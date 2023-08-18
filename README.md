@@ -1,5 +1,5 @@
 # Online-Banking-Application
-B-Bank a comprehensive banking solution that offers intuitive user experience, efficient banking operations, and a range of enhanced features, all under one roof. Built with modern technologies and best coding practices.
+BarbieBank a comprehensive banking solution that offers intuitive user experience, efficient banking operations, and a range of enhanced features, all under one roof. Built with modern technologies and best coding practices along with a group of software developers.
 
 ## Features
 ### User Experience
@@ -7,10 +7,10 @@ B-Bank a comprehensive banking solution that offers intuitive user experience, e
 - Personalized insights
 ### Banking Operations
 - Dashboard with Chart.js
-- Easy deposits, withdrawals, transfers
+- Easy deposits, withdrawals, transfers and closing of account
 - Credit Card features including rewards, secondary card, installment plans etc
-- Transaction histories
-- List of Currency rates (Forex API)
+- Search and see list of transactions 
+- List of Currency rates and conversion (Forex API)
 ### Extra Features
 - List of News and search for the latest news (News API)
 - AI Assistant (ChatGPT 3.5) 
@@ -26,9 +26,22 @@ B-Bank a comprehensive banking solution that offers intuitive user experience, e
 - Extensive logging (Log4j2)
 - Junit & Mockito testing
 
- ## Screenshots
+ ## Screenshots of features
  Dashboard:
 ![image](https://github.com/Le-Jared/Online-Banking-Application/assets/68887503/7be7ec84-27ec-488b-b9db-ad7da7d390de)
-
+Bank Accounts:
+![image](https://github.com/Le-Jared/Online-Banking-Application/assets/68887503/bb3c23fa-434f-403c-8f01-c416a3f4c796)
+Credit Cards:
+![image](https://github.com/Le-Jared/Online-Banking-Application/assets/68887503/b45afc9c-27c2-433a-94b9-ab4ffdd03ed8)
+Transactions:
+![image](https://github.com/Le-Jared/Online-Banking-Application/assets/68887503/945fb43d-4c5d-4ea2-a501-1859657fcee2)
+Exchange Rates:
+![image](https://github.com/Le-Jared/Online-Banking-Application/assets/68887503/a073865b-d859-4e9e-a86c-45663a4d8577)
+AI Assistant:
+![image](https://github.com/Le-Jared/Online-Banking-Application/assets/68887503/32ff130c-8c9c-4046-a9dd-d22fb6edfa90)
+Stocks:
+![image](https://github.com/Le-Jared/Online-Banking-Application/assets/68887503/0a1cc063-b26e-40f9-bbe5-4a833a2d90a2)
+News:
+![image](https://github.com/Le-Jared/Online-Banking-Application/assets/68887503/d67ac0b9-e287-420d-b18c-c8e4f3f1b667)
 
 
