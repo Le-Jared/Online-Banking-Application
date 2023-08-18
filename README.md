@@ -20,8 +20,9 @@ B-Bank a comprehensive banking solution that offers intuitive user experience, e
 - Database: MySQL
 
 ## Practices
-- :white_check_mark: Good coding practices, input validation, error handling
-- :mag: Extensive logging (Log4j2), proper testing
+- Input validation, error handling
+- Extensive logging (Log4j2)
+- Junit & Mockito testing
   
 
 
