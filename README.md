@@ -1,5 +1,5 @@
 # Online-Banking-Application
-BarbieBank a comprehensive banking solution that offers intuitive user experience, efficient banking operations, and a range of enhanced features, all under one roof. Built with modern technologies and best coding practices along with a group of software developers.
+BarbieBank a comprehensive banking solution that offers intuitive user experience, efficient banking operations, and a range of enhanced features, all under one roof. Built with best coding practices along with a group of software developers.
 
 ## Features
 ### User Experience
@@ -13,7 +13,7 @@ BarbieBank a comprehensive banking solution that offers intuitive user experienc
 - List of Currency rates and conversion (Forex API)
 ### Extra Features
 - List of News and search for the latest news (News API)
-- AI Assistant (ChatGPT 3.5) 
+- AI Assistant (ChatGPT 3.5 API) 
 - Search and display the latest stocks (Alpha Vantage API)
 
 ## Technology Stack
