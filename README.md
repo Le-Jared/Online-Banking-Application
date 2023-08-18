@@ -1,6 +1,7 @@
 # Online-Banking-Application
 BarbieBank a comprehensive banking solution that offers intuitive user experience, efficient banking operations, and a range of enhanced features, all under one roof. Built with modern technologies and best coding practices along with a group of software developers.
-
+## ERD Diagram
+![image](https://github.com/Le-Jared/Online-Banking-Application/assets/68887503/90648dbd-b1cd-4999-9d6e-2e8f618a6e97)
 ## Features
 ### User Experience
 - Intuitive UI/UX
