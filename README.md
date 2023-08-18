@@ -18,7 +18,7 @@ BarbieBank a comprehensive banking solution that offers intuitive user experienc
 - Search and display the latest stocks (Alpha Vantage API)
 
 ## Technology Stack
-- Front-End: Thymeleaf, CSS, JavaScript, Bootstrap
+- Front-End: Thymeleaf, CSS, JavaScript, Bootstrap, JQuery
 - Back-End: Spring Boot
 - Database: MySQL
 
@@ -27,7 +27,7 @@ BarbieBank a comprehensive banking solution that offers intuitive user experienc
 - Extensive logging (Log4j2)
 - Junit & Mockito testing
 
- ## Screenshots of features
+ ## Screenshots of Features
  Dashboard:
 ![image](https://github.com/Le-Jared/Online-Banking-Application/assets/68887503/7be7ec84-27ec-488b-b9db-ad7da7d390de)
 Bank Accounts:
