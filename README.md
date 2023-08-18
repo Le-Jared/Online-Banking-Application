@@ -5,7 +5,7 @@ B-Bank a comprehensive banking solution that offers intuitive user experience, e
 ### User Experience
 :computer: Intuitive UI/UX
 :bulb: Personalized insights
-Banking Operations
+### Banking Operations
 :money_with_wings: Easy deposits, withdrawals, transfers
 :page_facing_up: Transaction histories, credit details
 :currency_exchange: Currency rates
